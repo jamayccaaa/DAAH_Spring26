@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Micah Moreno"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Intro to Digital Humanities Spring 2026 course workspace"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
