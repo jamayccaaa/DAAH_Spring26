@@ -3,7 +3,7 @@ permalink: /digital-narrative/
 title: "Narrative"
 ---
 
-<h1> Claude </h1>
+<h3> Claude </h3>
 
 **Reflection on Digital Literacy: A 20-Year-Old’s Perspective**
 
@@ -33,9 +33,9 @@ Finally, I am excited to explore emerging technologies such as machine learning,
 
 In summary, my journey in digital humanities has equipped me with valuable skills in text analysis, data visualization, digital publishing, and collaboration. However, I am aware that there is always more to learn. By deepening my technical expertise, engaging critically with digital methods, and exploring new technologies, I hope to contribute meaningfully to the field and continue to grow as a digital humanist. The possibilities are vast, and I am excited to see where this journey will take me next.
 
----
+------------------------------------------------------
 
-<h1> GPT-4.1</h1>
+<h3> GPT-4.1</h3>
 
 
 **Digital Literacy in an Interdisciplinary World: A 20-Year-Old’s Reflection**
@@ -72,9 +72,9 @@ This course has challenged me to think critically about the tools I use. I’m b
 
 Looking ahead, I’m excited to explore the world of AI and machine learning in the humanities. I want to experiment with generative art, natural language processing, and immersive technologies. Most importantly, I hope to continue learning from my peers, embracing new ways
 
----
+------------------------------------------------------------------------------
 
-<h1> Gemini 2.5 Pro </h1>
+<h3> Gemini 2.5 Pro </h3>
 
 **A Digital Native’s Journey: Weaving Art, History, and Code**
 
