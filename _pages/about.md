@@ -3,7 +3,9 @@ permalink: /digital-narrative/
 title: "Narrative"
 ---
 
-<h3> Claude </h3>
+<h1> Digital Literacy Narrative </h1>
+
+<h3> 1. Claude </h3>
 
 **Reflection on Digital Literacy: A 20-Year-Old’s Perspective**
 
@@ -35,7 +37,7 @@ In summary, my journey in digital humanities has equipped me with valuable skill
 
 ------------------------------------------------------
 
-<h3> GPT-4.1</h3>
+<h3> 2. GPT-4.1</h3>
 
 
 **Digital Literacy in an Interdisciplinary World: A 20-Year-Old’s Reflection**
@@ -74,7 +76,7 @@ Looking ahead, I’m excited to explore the world of AI and machine learning in 
 
 ------------------------------------------------------------------------------
 
-<h3> Gemini 2.5 Pro </h3>
+<h3> 3. Gemini 2.5 Pro </h3>
 
 **A Digital Native’s Journey: Weaving Art, History, and Code**
 
