@@ -1,9 +1,7 @@
 ---
 permalink: /digital-narrative/
-title: "Narrative"
+title: "Digital Literacy Narrative"
 ---
-
-<h1> Digital Literacy Narrative </h1>
 
 <h3> 1. Claude </h3>
 
@@ -76,7 +74,7 @@ Looking ahead, I’m excited to explore the world of AI and machine learning in 
 
 ------------------------------------------------------------------------------
 
-<h3> 3. Gemini 2.5 Pro </h3>
+<h3> 3.Gemini 2.5 Pro </h3>
 
 **A Digital Native’s Journey: Weaving Art, History, and Code**
 
