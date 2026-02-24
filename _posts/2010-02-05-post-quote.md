@@ -1,6 +1,7 @@
 ---
-title: "Post: Extra Credit Assignment"
+title: " Extra Credit Assignment"
 categories: Assignment
+last_modified_at: 2026-02-25
 excerpt_separator: "<!--more-->"
 tags:
   - Assignment
