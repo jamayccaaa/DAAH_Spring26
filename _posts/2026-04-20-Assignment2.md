@@ -1,8 +1,6 @@
 ---
 title: "Assignment 2"
 excerpt_separator: "<!--more-->"
-categories:
-  - Assignment
 tags:
   - Assignment
   - text

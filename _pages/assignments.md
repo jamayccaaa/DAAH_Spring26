@@ -1,7 +1,7 @@
 ---
 title: "Assignments"
+layout: categories
 permalink: /assignments/
-layout: blog
-
+author_profile: true
 ---
 

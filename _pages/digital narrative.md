@@ -105,3 +105,8 @@ I am beginning to understand that code is not just a technical skill but a new f
 While I am proud of the skills I’ve acquired, I am acutely aware of how much more there is to learn. My programming abilities are still nascent, and I aspire to write my own scripts for data analysis and generative art. I am fascinated by the world of digital archives and the standards, like Dublin Core and TEI, that ensure our digital cultural heritage is preserved and accessible for future generations.
 
 Looking forward, the frontier of AI and machine learning in the humanities is incredibly exciting. I want to explore how these technologies can be used not just for analysis, but for creation—to generate new forms of art and to tell stories in ways we have yet to imagine. My goal is to continue learning from the diverse perspectives of my peers, to embrace ambiguity, and to remain a critical and thoughtful practitioner in this ever-evolving digital landscape.
+
+------------------------------------------------------------------------------
+
+
+
