@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Presentation"
 layout: categories
-permalink: /categories/
+permalink: /final-presentation/
 author_profile: true
 ---
