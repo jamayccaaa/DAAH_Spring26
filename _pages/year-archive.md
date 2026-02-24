@@ -1,8 +1,9 @@
 ---
 title: "Assignments"
 permalink: /assignments/
-layout: posts
-author_profile: true
 ---
 
 <p>Assignments</p>
+
+# **Extra Credit Assignment**
+`link: https://jamayccaaa.github.io/DAAH_Spring26/assignment/post-quote/ 
