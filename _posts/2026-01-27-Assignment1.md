@@ -1,9 +1,9 @@
 ---
-title: "Post: Standard"
+title: "Assignment 1"
 excerpt_separator: "<!--more-->"
 tags:
   - Assignment
-  - text
+  - Corpus
 ---
 
 # Assignment 1

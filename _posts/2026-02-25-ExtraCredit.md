@@ -9,7 +9,7 @@ tags:
   - Extra Credit
 ---
 ## Human Subjects Research with REDCap and NYU Research Integrity and Compliance
-#### February 13, 2026, 7:00 - 8:30 PM, NYU NY ####
+> February 13, 2026, 7:00 - 8:30 PM, NYU NY
 ________
 
 <p>Last February 13, 2026, in celebration of the Love Data Week, I participated in an online talk hosted by New York University titled “Human Subjects Research with REDCap and NYU Research Integrity and Compliance,” together with members of the Research Integrity and Compliance and Data Services teams. The session was part of their efforts to promote responsible data practices and to highlight the importance of proper data management, especially in research involving human participants. It was an informative and well-organized discussion that brought together experts who shared their knowledge and experiences in supporting ethical and secure research processes.
