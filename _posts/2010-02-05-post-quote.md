@@ -1,5 +1,6 @@
 ---
-title: "Post: Standard"
+title: "Post: Extra Credit Assignment"
+categories: Assignment
 excerpt_separator: "<!--more-->"
 tags:
   - Assignment
