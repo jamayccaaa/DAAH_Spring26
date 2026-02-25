@@ -3,6 +3,8 @@ title: " Extra Credit Assignment: Love Data Week"
 categories: Assignment
 last_modified_at: 2026-02-25
 excerpt_separator: "<!--more-->"
+categories:
+  - Blog
 tags:
   - Assignment
   - Love Data Week

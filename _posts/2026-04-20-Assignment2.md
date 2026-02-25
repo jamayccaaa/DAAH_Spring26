@@ -1,6 +1,8 @@
 ---
 title: "Assignment 2"
 excerpt_separator: "<!--more-->"
+categories:
+  - Blog
 tags:
   - Assignment
   - text
