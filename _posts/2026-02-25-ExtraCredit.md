@@ -13,7 +13,7 @@ tags:
 ## Human Subjects Research with REDCap and NYU Research Integrity and Compliance [Ready For Grading]
 > February 13, 2026, 7:00 - 8:30 PM, NYU NY
 
-Last February 13, 2026, in celebration of Love Data Week, I participated in an online talk hosted at New York University Campus titled *“Human Subjects Research with REDCap and NYU Research Integrity and Compliance,”* together with members of the Research Integrity and Compliance and Data Services teams. The session was part of their effort to promote responsible data practices and to highlight the importance of proper data management, especially for research involving human participants. It was an informative and well-organized discussion that brought together experts who shared their knowledge and experiences in supporting ethical, secure, and well-managed research processes. Overall, the talk focused on helping researchers understand their responsibilities when working with data and human subjects.
+Last February 13, 2026, in celebration of Love Data Week, I participated in an online talk hosted at New York University Campus titled *Human Subjects Research with REDCap and NYU Research Integrity and Compliance,* together with members of the Research Integrity and Compliance and Data Services teams. The session was part of their effort to promote responsible data practices and to highlight the importance of proper data management, especially for research involving human participants. It was an informative and well-organized discussion that brought together experts who shared their knowledge and experiences in supporting ethical, secure, and well-managed research processes. Overall, the talk focused on helping researchers understand their responsibilities when working with data and human subjects.
 
 <p>
 The session began with a clear explanation of what qualifies as human subjects research and the responsibilities that come with it, particularly in protecting participants. Research involves a living individual when data is collected through intervention or interaction, such as interviews, surveys, observations, or online communication, or when it involves identifiable private information. The speakers said that researchers must be intentional and transparent about both what they are collecting and the purpose behind their study. They also emphasized that if data is collected from another country, researchers must follow that country’s data protection regulations, which adds another layer of responsibility when conducting international or cross-cultural research. </p>
@@ -42,10 +42,9 @@ In addition, the speakers highlighted the importance of properly classifying dat
 
 ### Images during the event
 
-- IRB Decision Tree to determine if a study requiress IRB Review:
+- IRB Decision Tree to determine if a study requires IRB Review:
 
-![IRB 1](/assets/images/IRB-DECISION-TREE-1.png)
-![IRB 2](/assets/images/IRB-DECISION-TREE-2.png)
+- [View IRB Decision Tree and other images here ](https://drive.google.com/drive/folders/1Z5x_ZMttlUpyW6rxoqNCg9bG-U6RMVYz?usp=sharing)
 
 *also found here:* [IRB Decision Tree](https://researchservices.cornell.edu/sites/default/files/2019-05/IRB%20Decision%20Tree.pdf)
 
