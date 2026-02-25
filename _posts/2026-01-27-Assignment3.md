@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - Assignment
-  - Corpus
+  
 ---
 
 # Assignment 3

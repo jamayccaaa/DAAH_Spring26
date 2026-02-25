@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - Assignment
-  - text
+
 ---
 
 # Assignment 2
