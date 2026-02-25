@@ -39,9 +39,15 @@ In addition, the speakers highlighted the importance of properly classifying dat
 
 - How to apply and other resources:  
   [NYU Human Subjects Research Resources](https://www.nyu.edu/research/resources-and-support-offices/getting-started-withyourresearch/human-subjects-research.html)
-  
+
 ### Images during the event
-![IRB Decision Tree 1](../assets/images/IRB-DECISION-TREE-1.png)
-![IRB Decision Tree 2](../assets/images/IRB-DECISION-TREE-2.png)
+
+- IRB Decision Tree to determine if a study requiress IRB Review:
+also found here: [IRB Decision Tree](https://researchservices.cornell.edu/sites/default/files/2019-05/IRB%20Decision%20Tree.pdf)
+
+![IRB Decision Tree 1](/assets/images/IRB-DECISION-TREE-1.png)
+![IRB Decision Tree 2](/assets/images/IRB-DECISION-TREE-2.png)
+
+
 
 
