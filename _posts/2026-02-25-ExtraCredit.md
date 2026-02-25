@@ -34,13 +34,14 @@ In addition, the speakers highlighted the importance of properly classifying dat
 
 ### Links shared in the event
 
-<p> To learn more about HRPP - https://nyuad.nyu.edu/en/research/facilities-and-support/human-research-protection-program.html </p>
+- To learn more about HRPP:  
+  [NYUAD Human Research Protection Program](https://nyuad.nyu.edu/en/research/facilities-and-support/human-research-protection-program.html)
 
-<p>How to apply and other resources -  https://www.nyu.edu/research/resources-and-support-offices/getting-started-withyourresearch/human-subjects-research.html </p>
-
+- How to apply and other resources:  
+  [NYU Human Subjects Research Resources](https://www.nyu.edu/research/resources-and-support-offices/getting-started-withyourresearch/human-subjects-research.html)
+  
 ### Images during the event
-
-![IRB Decision Tree 1](assets/images/IRB-DECISION-TREE-1.png)
-![IRB Decision Tree 2](assets/images/IRB-DECISION-TREE-2.png)
+![IRB Decision Tree 1](../assets/images/IRB-DECISION-TREE-1.png)
+![IRB Decision Tree 2](../assets/images/IRB-DECISION-TREE-2.png)
 
 
