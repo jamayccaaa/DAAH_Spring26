@@ -34,11 +34,11 @@ However, when I looked more closely at the texts, I noticed that one of the most
 
 I also explored the collocates table, and I noticed that some words associated with “time” were highlighted in red. This made me curious, so I decided to graph these collocates together to see if there was a pattern across the texts. I was thinking that maybe these words suggested something deeper, like the idea that not travelling or not using your free time well could lead to losing or wasting time.
 
-![red highlights](/assets/images/time-red.png)
+![red highlights](/DAAH_Spring26/assets/images/time-red.png)
 
 When I looked at the results, I noticed that phrases like “time lost” appeared as common collocates across the texts. This stood out to me because it connects to the idea that time is something valuable, and once it is gone, it cannot be taken back. This could suggest that there is a concern with wasting time, and it made me think that the idea of adventure might be connected to making the most out of time.
 
-![time](/assets/images/time-.png)
+![time](/DAAH_Spring26/assets/images/time-.png)
 
 At the same time, I am aware that I am only doing distant reading, so I cannot fully confirm what the authors intended to say. However, seeing these repeated collocates made me more curious about how time is represented in these stories, and whether it plays a role in pushing characters to leave their ordinary lives and experience something new. However, since I am only using distant reading and collocate patterns, this is not a definite conclusion, but it suggests a possible connection between time, urgency, and the idea of going on adventures.
 
