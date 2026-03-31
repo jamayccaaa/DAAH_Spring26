@@ -27,8 +27,8 @@ I wasn't sure what other texts to use, so I asked ChatGPT. It helped me find sim
 
 When I started placing all of the texts in both Voyant Tools and RMarkdown and exploring them, the word cloud mostly showed random words from the books. The word cloud is also dominated by dialogue and character names such as “said,” “Alice,” and “Peter,” which reflects the narrative nature of the texts. Because of this, it was harder to immediately see deeper themes just from the most frequent words.  I could see some words that I could connect to travel and adventure, but there weren’t many of them. Because of this, I decided to manually look for words in Voyant Tools like _journey, dream, adventure, world, danger,_ and _wonder_, terms that I could relate more clearly to travelling and adventure.
 
-![search](/assets/images/Search.png)
-![word cloud](/assets/images/WordCloudRMarkdown.png)
+![search](/DAAH_Spring26/assets/images/Search.png) ![word cloud](/DAAH_Spring26/assets/images/WordCloudRMarkdown.png)
+
 
 However, when I looked more closely at the texts, I noticed that one of the most consistent words across all five books is “time.” Even if it is not always the most frequent word, it appears in all of them. This led me to think that time plays an important role in adventure, since it creates a sense of urgency or pressure to act and experience things while you still can. Ideas like time lost or time wasted suggest that characters are pushed to leave their ordinary lives, go on adventures, and explore new worlds.
 
