@@ -27,16 +27,28 @@ I wasn't sure what other texts to use, so I asked ChatGPT. It helped me find sim
 
 When I started placing all of the texts in both Voyant Tools and RMarkdown and exploring them, the word cloud mostly showed random words from the books. The word cloud is also dominated by dialogue and character names such as “said,” “Alice,” and “Peter,” which reflects the narrative nature of the texts. Because of this, it was harder to immediately see deeper themes just from the most frequent words.  I could see some words that I could connect to travel and adventure, but there weren’t many of them. Because of this, I decided to manually look for words in Voyant Tools like _journey, dream, adventure, world, danger,_ and _wonder_, terms that I could relate more clearly to travelling and adventure.
 
-![search](/DAAH_Spring26/assets/images/Search.png) ![word cloud](/DAAH_Spring26/assets/images/WordCloudRMarkdown.png)
+<div style="display: flex; gap: 20px; justify-content: center;">
+
+  <figure style="text-align: center;">
+    <img src="/DAAH_Spring26/assets/images/time-red.png" style="width: 100%;">
+    <figcaption>Time Red Highlights</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="/DAAH_Spring26/assets/images/WordCloudRMarkdown.png" style="width: 100%;">
+    <figcaption>Word Cloud</figcaption>
+  </figure>
+
+</div>
 
 
-However, when I looked more closely at the texts, I noticed that one of the most consistent words across all five books is “time.” Even if it is not always the most frequent word, it appears in all of them. This led me to think that time plays an important role in adventure, since it creates a sense of urgency or pressure to act and experience things while you still can. Ideas like time lost or time wasted suggest that characters are pushed to leave their ordinary lives, go on adventures, and explore new worlds.
+When I looked more closely at a wordcloud from RMarkdown, I noticed that one of the most consistent words across all five books that I can connect with travelling is “time.” This led me to assume and think that maybe in these texts, time plays an important role in adventure. The texts might be talking about the sense of urgency or pressure to act and experience things while you still can.
 
-I also explored the collocates table, and I noticed that some words associated with “time” were highlighted in red. This made me curious, so I decided to graph these collocates together to see if there was a pattern across the texts. I was thinking that maybe these words suggested something deeper, like the idea that not travelling or not using your free time well could lead to losing or wasting time.
+I also explored the collocates table in Voyant Tools, and I noticed that some words associated with “time” were highlighted in red. This made me curious, so I decided to graph these collocates together to see if there was a pattern across the texts. I was thinking that maybe these words suggested something deeper, like the idea that not travelling or not using your free time well could lead to losing or wasting time.
 
 ![red highlights](/DAAH_Spring26/assets/images/time-red.png)
 
-When I looked at the results, I noticed that phrases like “time lost” appeared as common collocates across the texts. This stood out to me because it connects to the idea that time is something valuable, and once it is gone, it cannot be taken back. This could suggest that there is a concern with wasting time, and it made me think that the idea of adventure might be connected to making the most out of time.
+When I looked at the results, I noticed that phrases like “time lost” appeared as common collocates across the texts. This stood out to me because it connects to the idea that time is something valuable, and once it is gone, it cannot be taken back. Ideas like these could suggest that characters are pushed or wanted to leave their ordinary lives, go on adventures, or explore new worlds. This could suggest that there is a concern with wasting time, and it made me think that the idea of adventure might be connected to making the most out of time.
 
 ![time](/DAAH_Spring26/assets/images/time-.png)
 
