@@ -8,7 +8,7 @@ tags:
   - Corpus
 ---
 
-## Assignment 1 - WORKING WITH A CORPUS (draft)
+## Assignment 1 - WORKING WITH A CORPUS (READY FOR GRADING)
 
 ## Introduction
 At first, I was planning to use Filipino revolutionary texts from the Philippine Revolution. However, I faced challenges along the way. When I was working with the word cloud, it only showed me Filipino sentence markers instead of meaningful words, which made it hard to get useful insights. Now, my focus has shifted to exploring books about adventure and escaping ordinary life, such as the following:
@@ -26,6 +26,8 @@ I wasn't sure what other texts to use, so I asked ChatGPT. It helped me find sim
 I noticed that even if they aren't all fantasy, they share patterns in how adventure is shown. Some focus on physical travel, like sailing or exploring new places. Others dive into imaginary worlds. Despite these differences, all the texts involve leaving a familiar space, facing new situations, and experiencing change. The journey usually has dangerous or uncertain moments. These moments make the adventure feel more meaningful, not just thrilling. Overall, they all present travelling, entering new worlds, and experiencing adventure.
 
 ## ANALYSIS AND TOOLS (Voyant Tools and RMarkdown)
+
+<iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=a0de07dc25ff5e43f716effb3c2c3b43&view=Cirrus'></iframe>
 
 When I started placing all of the texts in both Voyant Tools and Posit Cloud and exploring them, the word cloud mostly showed random words from the books. It was also dominated by dialogue and character names such as “said,” “Alice,” and “Peter,” which reflects the narrative nature of the texts. Because of this, it was harder to immediately see deeper themes just from the most frequent words. I could see some words that I could connect to travel and adventure, but there weren’t many of them. So I decided to manually look for words in Voyant Tools. This connects to Ted Underwood's idea that with a smaller set of texts, researchers can tweak their methods, which helps them highlight certain themes better, especially when automated tools miss them. Because of this, I focused on words like _journey, dream, adventure, world, danger, and wonder_, terms that I could relate more clearly to travelling and adventure.
 
@@ -64,7 +66,8 @@ Overall, even if the word cloud does not directly highlight adventure-related wo
 
 ## REFLECTION
 
-Working on this project made me realize that distant reading is not always straightforward. At first, I thought that tools like _Voyant_ and _R Markdown_ would immediately show clear themes. I knew the texts centered on exploring, travel, and adventure. Therefore, I expected to find many words that highlighted these ideas. However, instead of that, I mostly saw common words like character names and dialogue. This made it challenging to quickly identify deeper meanings, revealing that word frequency alone doesn’t always show a text's themes. Because of this, I had to examine the data more closely. I couldn’t just focus on the most frequent words. This pushed me to think more critically about what the data truly shows.
+Working on this project made me realize that distant reading is not always straightforward. At first, I thought that tools like _Voyant_ and _R Markdown_ would immediately show clear themes. I knew the texts centered on exploring, travel, and adventure. Therefore, I expected to find many words that highlighted these ideas. However, instead of that, I mostly saw common words like character names and dialogue. This is what Drucker calls _'datafication.'_ In her _Digital Humanities Coursebook_, she defines this as reducing complex materials into a format suitable for computation. This made it challenging to quickly identify deeper meanings, revealing that word frequency alone doesn’t always show a text's themes. Because of this, I had to examine the data more closely. I couldn’t just focus on the most frequent words. This led me to engage in a thorough analysis of what the data truly reveals.
+
 
 Using _Voyant_ and _R Markdown_ showed me patterns in all texts at once. It’s hard to spot these through regular reading, especially when time is short. These tools made it easier to identify which words appear the most, examine collocates, and track how often certain words are used. This helped me get a general sense of the texts and their possible themes. However, I also realized that this does not guarantee a full understanding of the texts. The tools show patterns, but they do not explain the full meaning or context behind them, which means interpretation is still necessary.
 
@@ -79,6 +82,19 @@ Overall, this project made me realize that analyzing texts using digital tools i
 
 ## REFERENCES
 
+Drucker, Johanna. "Digital humanities overview." The Digital Humanities Coursebook, Routledge, 2021, pp. 1-18.
+
 Duffy, Lisa. “Transworld Travel in Postwar Animated Musicals.” Fantasy/Animation, 15 Jan. 2021, Transworld Travel in Postwar Animated Musicals
 
+Google. (2026). Gemini [Large language model]. https://gemini.google.com
+
+Google. (2026). NotebookLM [AI research assistant]. https://notebooklm.google.com
+
+OpenAI. (2026). ChatGPT [Large language model]. https://chat.openai.com
+
 Underwood, Ted. “Appendix A: Data.” Distant Horizons: Digital Evidence and Literary Change, University of Chicago Press, 2019, pp. 174-184.
+
+
+How the LLMs are Used : ChatGPT was used to look for more related texts about travels and adventure found on Project Gutenberg, Gemini was used for finding related articles or podcasts (like Lisa Duffy's blogpost), and NotebookLM was used to skim through text and for contextualization.
+
+**READY FOR GRADING**
