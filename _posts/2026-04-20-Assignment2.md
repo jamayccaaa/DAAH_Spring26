@@ -75,6 +75,6 @@ Comparing both methods, I think manual geocoding is more reliable when it comes 
 
 ## Links
 [Recogito](https://recogito.pelagios.org/document/3tc6koyke3yj62 )
-[PositCloud HTML](https://147ebb8ff69a4d55b788ba409e4a7465.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FvisualizingSouthernArabia.html)
+[PositCloud HTML](https://jamayccaaa.github.io/SouthernArabia/)
 
 # READY FOR GRADING
