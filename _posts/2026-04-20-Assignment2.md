@@ -7,7 +7,7 @@ tags:
   - Assignment
 
 ---
-# Assignment 2 - Manual Geocoding vs Automated Geocoding [Ready for Grading]
+# Manual Geocoding vs Automated Geocoding [Ready for Grading]
 
 ## Introduction
 
@@ -74,7 +74,7 @@ Before this activity, I mostly viewed mapping tools as systems that automaticall
 Comparing both methods, I think manual geocoding is more reliable when it comes to understanding context and making careful decisions, especially for historical texts like Southern Arabia. However, automatic geocoding is much more time efficient and practical for large-scale projects. With today’s technology and better digital tools, automatic geocoding can really help make research faster and easier. At the same time, human checking is still necessary because machines can make mistakes or misunderstand unclear place names. In the end, I think the best approach is to use both together. 
 
 ## Links
-[Recogito] (https://recogito.pelagios.org/document/3tc6koyke3yj62 )
-[PositCloud HTML] (https://147ebb8ff69a4d55b788ba409e4a7465.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FvisualizingSouthernArabia.html)
+[Recogito](https://recogito.pelagios.org/document/3tc6koyke3yj62 )
+[PositCloud HTML](https://147ebb8ff69a4d55b788ba409e4a7465.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FvisualizingSouthernArabia.html)
 
 # READY FOR GRADING
